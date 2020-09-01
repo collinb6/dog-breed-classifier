@@ -14,7 +14,7 @@ Datasets for this project can be downloaded from the following links:
 
 
 
-If your code is taking too long to run, you can switch to running your code on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own:
+Training of the model will require running on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own:
 
 #### Amazon Web Services
 
