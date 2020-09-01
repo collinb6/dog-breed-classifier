@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project is my Capstone Project for Udacity's Machine Learning Eningeer Nanodegree. 
-In this project, I build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+In this project, I build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the application will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 The image classification is acheived using state-of-the-art Convolutional Neural Network (CNN) models.
 
